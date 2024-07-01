@@ -1521,3 +1521,10 @@ a {
   .custom-pagination a:hover {
     background: #fd7e14;
     color: #fff; }
+
+.hidden { display: none; }
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
